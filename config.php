@@ -1,0 +1,4 @@
+<?php
+define('ACCESS_KEY', 'HIER EINTRAGEN');
+define('SECRET_ACCESS_KEY', 'HIER EINTRAGEN');
+?>
