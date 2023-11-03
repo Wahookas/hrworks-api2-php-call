@@ -1,6 +1,5 @@
-```markdown
 [English version of README](README.md)
-```
+
 # HRWorks API v2 PHP Call
 Dieses Repository enthält ein PHP-Skript zur Interaktion mit der HRWorks API v2. Es zeigt, wie man Mitarbeiterdaten sicher und effizient authentifiziert und abruft.
 
