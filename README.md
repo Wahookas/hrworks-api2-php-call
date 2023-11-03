@@ -1,6 +1,5 @@
-```markdown
 [Deutsche Version der README](README_DE.md)
-```
+
 # HRWorks API v2 PHP Call
 
 This repository contains a PHP script to interact with the HRWorks API v2. It demonstrates how to authenticate and retrieve employee data securely and efficiently.
